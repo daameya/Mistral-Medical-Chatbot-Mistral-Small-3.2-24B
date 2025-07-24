@@ -64,9 +64,9 @@ Now, open the chatbot at your localhost address.
 
 # Chatbot Images
 
-![buffermemory1.png](Images\buffermemory1.png)
-![buffermemory2.png](Images\buffermemory2.png)
-![buffermemory3.png](Images\buffermemory3.png)
+![buffermemory1.png](Images%2Fbuffermemory1.png)
+![buffermemory2.png](Images%2Fbuffermemory2.png)
+![buffermemory3.png](Images%2Fbuffermemory3.png)
 
 # License
 
