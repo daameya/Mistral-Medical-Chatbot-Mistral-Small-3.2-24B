@@ -1,5 +1,12 @@
 # Mistral-Medical-Chatbot-Mistral-Small-3.2-24B
 
+[![Python: 3.11](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)](https://www.python.org/)
+[![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg?style=for-the-badge)](http://www.apache.org/licenses/)
+[![LLM: Mistral AI](https://img.shields.io/badge/LLM-Mistral-orange.svg?style=for-the-badge)](https://mistral.ai/)
+[![Vector DB: Pinecone](https://img.shields.io/badge/DataBase-Pinecone-green.svg?style=for-the-badge)](https://www.pinecone.io/)
+
+
+
 # How to run?
 ### STEPS:
 
@@ -43,11 +50,7 @@ python store_index.py
 python app.py
 ```
 
-Now,
-```bash
-open up localhost:
-```
-
+Now, open the chatbot at your localhost address.
 
 ### Techstack Used:
 
@@ -56,3 +59,25 @@ open up localhost:
 - Flask
 - Mistral Small 3.2 24B
 - Pinecone
+
+# Chatbot Live Link
+
+# Chatbot Images
+
+![buffermemory1.png](Images\buffermemory1.png)
+![buffermemory2.png](Images\buffermemory2.png)
+![buffermemory3.png](Images\buffermemory3.png)
+
+# License
+
+Mistral-Medical-Chatbot-Mistral-Small-3.2-24B is distributed by [daameya](https://github.com/daameya) under the terms of the Apache License. See the [LICENSE](LICENSE) file for more details.
+
+# Connect with me
+
+- [GitHub](https://github.com/daameya)
+- [LinkedIn](https://www.linkedin.com/in/ameya-damle)
+- [Medium](https://medium.com/@1998ameya)
+- [Email](ameyadamleuk@gmail.com)
+- [Instagram](https://www.instagram.com/ameya_damle)
+
+For queries, reach out to me on my socials.
