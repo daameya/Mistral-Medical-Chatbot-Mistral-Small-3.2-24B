@@ -18,11 +18,11 @@ git clone https://github.com/daameya/Mistral-Medical-Chatbot-Mistral-Small-3.2-2
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-python -m venv medibot
+python -m venv .medibot
 ```
 
 ```bash
-source medibot/scripts/activate
+source .medibot/scripts/activate
 ```
 
 
