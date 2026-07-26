@@ -39,7 +39,7 @@ retriever = docsearch.as_retriever(search_type="similarity", search_kwargs={"k":
 chatModel = ChatOpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=OPENAI_API_KEY,
-    model="mistralai/mistral-small-3.2-24b-instruct:free"
+    model="inclusionai/ling-3.0-flash:free"
 )
 
 # Prompt Template with Memory
